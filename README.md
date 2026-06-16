@@ -1,4 +1,5 @@
 # article-code-2
+Journal Article Title: Path Planning and Trajectory Tracking Using Type-2/Type-3 Fuzzy Control and Bio-Inspired Optimization for Autonomous Mobile Robots Journal: Applied Soft Computing Publisher: Elsevier DOI: https://doi.org/10.1016/j.asoc.2026.115622
 pid-trajectory-tracking
 README - PID Controller with Distance-Based Speed Scheduling and Obstacle Avoidance
 This code implements a mobile robot navigation framework that combines the Dragonfly Optimization Algorithm for global path planning with a classical PID controller for heading and speed tracking, plus a fuzzy obstacle-avoidance controller.
